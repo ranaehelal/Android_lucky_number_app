@@ -10,9 +10,9 @@ This project is a fun Android app built with Java that generates a lucky number 
 
 ## Screenshots
 
-<img src="assets/1.png" alt="Main Screen" width="250" height="450">
-<img src="assets/2.png" alt="Lucky Number Screen" width="250" height="450">
-<img src="assets/3.png" alt="Share with Friends Screen" width="250" height="450">
+<img src="1.png" alt="Main Screen" width="250" height="450">
+<img src="2.png" alt="Lucky Number Screen" width="250" height="450">
+<img src="3.png" alt="Share with Friends Screen" width="250" height="450">
 
 ## Getting Started
 
